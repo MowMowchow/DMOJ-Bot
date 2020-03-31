@@ -1,2 +1,2 @@
 # DMOJ-Bot
-A Discord bot that accesses dmoj.ca to fetch problesm easily
+A Discord bot that accesses dmoj.ca to fetch problems easily

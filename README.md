@@ -11,6 +11,6 @@ An example of using the bot:
 ![DMOJ-Bot_q_example](https://i.imgur.com/AHSy40P.png)
 
 
-The bot's help command:
+The bots help command:
 
 ![DMOJ-Bot_help_example](https://i.imgur.com/jbVepqk.png)
